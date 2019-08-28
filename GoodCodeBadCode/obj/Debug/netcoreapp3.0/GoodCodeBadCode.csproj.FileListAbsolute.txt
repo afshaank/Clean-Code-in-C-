@@ -1,0 +1,12 @@
+G:\_Development\GoodCodeBadCode\GoodCodeBadCode\bin\Debug\netcoreapp3.0\GoodCodeBadCode.exe
+G:\_Development\GoodCodeBadCode\GoodCodeBadCode\bin\Debug\netcoreapp3.0\GoodCodeBadCode.deps.json
+G:\_Development\GoodCodeBadCode\GoodCodeBadCode\bin\Debug\netcoreapp3.0\GoodCodeBadCode.runtimeconfig.json
+G:\_Development\GoodCodeBadCode\GoodCodeBadCode\bin\Debug\netcoreapp3.0\GoodCodeBadCode.runtimeconfig.dev.json
+G:\_Development\GoodCodeBadCode\GoodCodeBadCode\bin\Debug\netcoreapp3.0\GoodCodeBadCode.dll
+G:\_Development\GoodCodeBadCode\GoodCodeBadCode\bin\Debug\netcoreapp3.0\GoodCodeBadCode.pdb
+G:\_Development\GoodCodeBadCode\GoodCodeBadCode\obj\Debug\netcoreapp3.0\GoodCodeBadCode.csprojAssemblyReference.cache
+G:\_Development\GoodCodeBadCode\GoodCodeBadCode\obj\Debug\netcoreapp3.0\GoodCodeBadCode.csproj.CoreCompileInputs.cache
+G:\_Development\GoodCodeBadCode\GoodCodeBadCode\obj\Debug\netcoreapp3.0\GoodCodeBadCode.AssemblyInfoInputs.cache
+G:\_Development\GoodCodeBadCode\GoodCodeBadCode\obj\Debug\netcoreapp3.0\GoodCodeBadCode.AssemblyInfo.cs
+G:\_Development\GoodCodeBadCode\GoodCodeBadCode\obj\Debug\netcoreapp3.0\GoodCodeBadCode.dll
+G:\_Development\GoodCodeBadCode\GoodCodeBadCode\obj\Debug\netcoreapp3.0\GoodCodeBadCode.pdb

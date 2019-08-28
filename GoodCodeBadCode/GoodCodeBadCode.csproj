@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="CH02\" />
+    <Folder Include="CH03\" />
+    <Folder Include="CH04\" />
+    <Folder Include="CH05\" />
+    <Folder Include="CH06\" />
+    <Folder Include="CH07\" />
+    <Folder Include="CH08\" />
+    <Folder Include="CH09\" />
+    <Folder Include="CH10\" />
+    <Folder Include="CH11\" />
+    <Folder Include="CH12\" />
+    <Folder Include="CH13\" />
+    <Folder Include="CH15\" />
+  </ItemGroup>
+
+</Project>
