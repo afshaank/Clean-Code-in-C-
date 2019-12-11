@@ -6,8 +6,12 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="CH02\" />
-    <Folder Include="CH03\" />
+    <Compile Remove="CH02\**" />
+    <EmbeddedResource Remove="CH02\**" />
+    <None Remove="CH02\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Folder Include="CH04\" />
     <Folder Include="CH05\" />
     <Folder Include="CH06\" />

@@ -10,3 +10,14 @@ G:\_Development\GoodCodeBadCode\GoodCodeBadCode\obj\Debug\netcoreapp3.0\GoodCode
 G:\_Development\GoodCodeBadCode\GoodCodeBadCode\obj\Debug\netcoreapp3.0\GoodCodeBadCode.AssemblyInfo.cs
 G:\_Development\GoodCodeBadCode\GoodCodeBadCode\obj\Debug\netcoreapp3.0\GoodCodeBadCode.dll
 G:\_Development\GoodCodeBadCode\GoodCodeBadCode\obj\Debug\netcoreapp3.0\GoodCodeBadCode.pdb
+D:\personal\_packtpub\dev\Clean Code in C#\Clean-Code-in-C-\GoodCodeBadCode\obj\Debug\netcoreapp3.0\GoodCodeBadCode.csprojAssemblyReference.cache
+D:\personal\_packtpub\dev\Clean Code in C#\Clean-Code-in-C-\GoodCodeBadCode\obj\Debug\netcoreapp3.0\GoodCodeBadCode.AssemblyInfoInputs.cache
+D:\personal\_packtpub\dev\Clean Code in C#\Clean-Code-in-C-\GoodCodeBadCode\obj\Debug\netcoreapp3.0\GoodCodeBadCode.AssemblyInfo.cs
+D:\personal\_packtpub\dev\Clean Code in C#\Clean-Code-in-C-\GoodCodeBadCode\obj\Debug\netcoreapp3.0\GoodCodeBadCode.dll
+D:\personal\_packtpub\dev\Clean Code in C#\Clean-Code-in-C-\GoodCodeBadCode\obj\Debug\netcoreapp3.0\GoodCodeBadCode.pdb
+D:\personal\_packtpub\dev\Clean Code in C#\Clean-Code-in-C-\GoodCodeBadCode\bin\Debug\netcoreapp3.0\GoodCodeBadCode.exe
+D:\personal\_packtpub\dev\Clean Code in C#\Clean-Code-in-C-\GoodCodeBadCode\bin\Debug\netcoreapp3.0\GoodCodeBadCode.deps.json
+D:\personal\_packtpub\dev\Clean Code in C#\Clean-Code-in-C-\GoodCodeBadCode\bin\Debug\netcoreapp3.0\GoodCodeBadCode.runtimeconfig.json
+D:\personal\_packtpub\dev\Clean Code in C#\Clean-Code-in-C-\GoodCodeBadCode\bin\Debug\netcoreapp3.0\GoodCodeBadCode.runtimeconfig.dev.json
+D:\personal\_packtpub\dev\Clean Code in C#\Clean-Code-in-C-\GoodCodeBadCode\bin\Debug\netcoreapp3.0\GoodCodeBadCode.dll
+D:\personal\_packtpub\dev\Clean Code in C#\Clean-Code-in-C-\GoodCodeBadCode\bin\Debug\netcoreapp3.0\GoodCodeBadCode.pdb

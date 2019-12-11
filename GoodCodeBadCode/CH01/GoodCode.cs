@@ -1,6 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
+using System.Diagnostics;
 
 namespace GoodCodeBadCode.CH01
 {
@@ -17,7 +16,7 @@ namespace GoodCodeBadCode.CH01
             for (var i = 0; i < 1000; i++)
             {
                 var productCode = $"PRC000{i}";
-                //...implementation
+                Debug.WriteLine($"Product Code: {productCode}");
             }
         }
 
@@ -35,7 +34,6 @@ namespace GoodCodeBadCode.CH01
 
     namespace CompanyName.ProductName.RegEx
     {
-        using System;
         using System.Text.RegularExpressions;
 
         /// <summary>
@@ -43,7 +41,9 @@ namespace GoodCodeBadCode.CH01
         /// </summary
         public static class RegularExpressions
         {
-            private static string _preprocessed;
+#pragma warning disable IDE0051 // Remove unused private members
+            private static readonly string _preprocessed;
+#pragma warning restore IDE0051 // Remove unused private members
 
             public static string RegularExpression { get; set; }
 
@@ -57,8 +57,6 @@ namespace GoodCodeBadCode.CH01
                 return isEmail;
             }
 
-            // ... rest of the implementation ...
-
         }
     }
 
@@ -66,15 +64,13 @@ namespace GoodCodeBadCode.CH01
     {
         public void DoSomeWork()
         {
-            using (var unitOfWork = new UnitOfWork())
-            {
-                // Perform unit of work here.
-            }
-            // At this point the unit of work object has been disposed of.
+            var unitOfWork = new UnitOfWork();
+            unitOfWork.BreakForTea();
+            unitOfWork.Dispose();
         }
     }
 
-    public class UnitOfWork : IDisposable() 
+    public class UnitOfWork : IDisposable
     {
         #region IDisposable Support
         private bool disposedValue = false; // To detect redundant calls
@@ -111,6 +107,11 @@ namespace GoodCodeBadCode.CH01
             // GC.SuppressFinalize(this);
         }
         #endregion
+
+        public void BreakForTea()
+        {
+            Debug.WriteLine("It's time to give your eyes a rest and have a nice cup of tea.");
+        }
     }
 
     /// <summary>

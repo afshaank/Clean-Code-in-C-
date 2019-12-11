@@ -8,25 +8,23 @@
     ".NETCoreApp,Version=v3.0": []
   },
   "packageFolders": {
-    "C:\\Users\\jason.alls\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\jason\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\_Development\\GoodCodeBadCode\\GoodCodeBadCode\\GoodCodeBadCode.csproj",
+      "projectUniqueName": "D:\\personal\\_packtpub\\dev\\Clean Code in C#\\Clean-Code-in-C-\\GoodCodeBadCode\\GoodCodeBadCode.csproj",
       "projectName": "GoodCodeBadCode",
-      "projectPath": "G:\\_Development\\GoodCodeBadCode\\GoodCodeBadCode\\GoodCodeBadCode.csproj",
-      "packagesPath": "C:\\Users\\jason.alls\\.nuget\\packages\\",
-      "outputPath": "G:\\_Development\\GoodCodeBadCode\\GoodCodeBadCode\\obj\\",
+      "projectPath": "D:\\personal\\_packtpub\\dev\\Clean Code in C#\\Clean-Code-in-C-\\GoodCodeBadCode\\GoodCodeBadCode.csproj",
+      "packagesPath": "C:\\Users\\jason\\.nuget\\packages\\",
+      "outputPath": "D:\\personal\\_packtpub\\dev\\Clean Code in C#\\Clean-Code-in-C-\\GoodCodeBadCode\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\jason.alls\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jason\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -35,8 +33,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "D:\\_Hyve\\_INTERNAL_NUGET_PACKAGES": {},
-        "http://172.16.240.5:8081/nuget": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -67,7 +63,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100-preview8-013656\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

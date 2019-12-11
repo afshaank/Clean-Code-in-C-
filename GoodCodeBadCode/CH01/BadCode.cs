@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Text;
+using System.Diagnostics;
+using System.Linq;
 
 namespace GoodCodeBadCode.CH01
 {
@@ -15,17 +16,17 @@ namespace GoodCodeBadCode.CH01
         // Example of bad indentation.
         public void DoSomething()
         {
-        for (var i = 0; i < 1000; i++)
-        {
-        var productCode = $"PRC000{i}";
-        //...implementation
-        int value = GetDataValue(); // This sometimes causes a divide by zero error. Don't know why!
-        }
+            for (var i = 0; i < 1000; i++)
+            {
+                var productCode = $"PRC000{i}";
+                int value = GetDataValue(); // This sometimes causes a divide by zero error. Don't know why!
+                Debug.WriteLine($"Product Code: {productCode}, Data Value: {value}");
+            }
         }
 
         private int GetDataValue()
         {
-        return 100 / DateTime.Now.Second;
+            return 100 / DateTime.Now.Second;
         }
 
         /* No longer used as has been replaced by DoSomething()
@@ -44,14 +45,14 @@ namespace GoodCodeBadCode.CH01
 
             public DateTime AddDates(DateTime date1, DateTime date2)
             {
-                //...implementation...
-                return DateTime.Now;
+                var ticks = date1.Ticks + date2.Ticks;
+                return new DateTime(ticks);
             }
 
             public Product GetData(int id)
             {
-                //...implementation...
-                return new Product();
+                var products = new List<Product>().Where(i => i.Id == id).FirstOrDefault();
+                return products;
             }
         }
         public class Product
@@ -61,7 +62,7 @@ namespace GoodCodeBadCode.CH01
             public int Description;
             public string ProductCode;
             public decimal Price;
-            public long UnitsInStock
+            public long UnitsInStock;
         }
     }
 
