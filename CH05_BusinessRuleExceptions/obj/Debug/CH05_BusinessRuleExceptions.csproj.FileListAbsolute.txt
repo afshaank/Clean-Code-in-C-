@@ -1,0 +1,6 @@
+D:\Development\Clean-Code-in-C-\CH05_BusinessRuleExceptions\obj\Debug\CH05_BusinessRuleExceptions.csprojAssemblyReference.cache
+D:\Development\Clean-Code-in-C-\CH05_BusinessRuleExceptions\bin\Debug\CH05_BusinessRuleExceptions.exe.config
+D:\Development\Clean-Code-in-C-\CH05_BusinessRuleExceptions\bin\Debug\CH05_BusinessRuleExceptions.exe
+D:\Development\Clean-Code-in-C-\CH05_BusinessRuleExceptions\bin\Debug\CH05_BusinessRuleExceptions.pdb
+D:\Development\Clean-Code-in-C-\CH05_BusinessRuleExceptions\obj\Debug\CH05_BusinessRuleExceptions.exe
+D:\Development\Clean-Code-in-C-\CH05_BusinessRuleExceptions\obj\Debug\CH05_BusinessRuleExceptions.pdb

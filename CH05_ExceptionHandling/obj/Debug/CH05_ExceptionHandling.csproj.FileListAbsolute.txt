@@ -1,0 +1,6 @@
+D:\Development\Clean-Code-in-C-\CH05_ExceptionHandling\bin\Debug\CH05_ExceptionHandling.exe.config
+D:\Development\Clean-Code-in-C-\CH05_ExceptionHandling\bin\Debug\CH05_ExceptionHandling.exe
+D:\Development\Clean-Code-in-C-\CH05_ExceptionHandling\bin\Debug\CH05_ExceptionHandling.pdb
+D:\Development\Clean-Code-in-C-\CH05_ExceptionHandling\obj\Debug\CH05_ExceptionHandling.csprojAssemblyReference.cache
+D:\Development\Clean-Code-in-C-\CH05_ExceptionHandling\obj\Debug\CH05_ExceptionHandling.exe
+D:\Development\Clean-Code-in-C-\CH05_ExceptionHandling\obj\Debug\CH05_ExceptionHandling.pdb

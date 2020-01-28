@@ -3,7 +3,47 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29123.88
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoodCodeBadCode", "GoodCodeBadCode\GoodCodeBadCode.csproj", "{7DFEB909-C72C-4BC0-BC60-152FD0A41B31}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GoodCodeBadCode", "GoodCodeBadCode\GoodCodeBadCode.csproj", "{7DFEB909-C72C-4BC0-BC60-152FD0A41B31}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CH01 - Coding Standards and Principles", "CH01 - Coding Standards and Principles", "{179BD74A-9DF9-4869-B619-34AAA05FE573}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_MARKED_FOR_DELETION_", "_MARKED_FOR_DELETION_", "{316BD921-F46A-471A-833E-AA6305C8D66A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CH02 - Code Review Process and Importance", "CH02 - Code Review Process and Importance", "{38ECDEEE-8AE4-4E6D-B850-A855E0493D33}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CH03 - Classes, Objects and Data Structures", "CH03 - Classes, Objects and Data Structures", "{EC141971-2117-4D38-9761-6E037734125D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CH04 - Writing Clean Functions", "CH04 - Writing Clean Functions", "{8BD72B9B-1978-41DF-A278-57A221D03534}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CH05 - Exception Handling", "CH05 - Exception Handling", "{682CD903-2641-4ABB-830B-138C542553A1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CH06 - Unit Testing", "CH06 - Unit Testing", "{2E2D367B-963C-4C74-A765-7DB6B8E81CA3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CH07 - End-to-End System Testing", "CH07 - End-to-End System Testing", "{CB092A21-3240-4453-B249-8FC4F176EAF3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CH08 - Threading and Concurrency", "CH08 - Threading and Concurrency", "{CD899D3E-65D8-42E5-A4EE-65080A4178E1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CH09 - Designing Effective APIs", "CH09 - Designing Effective APIs", "{6095194F-F777-486D-A251-98B7CA137560}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CH10 - Addressing Cross-Cutting Concerns", "CH10 - Addressing Cross-Cutting Concerns", "{F9A19B55-C852-4B7B-88C1-2618D6BA94D7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CH11 - Well-Defined Boundaries", "CH11 - Well-Defined Boundaries", "{B8B5A177-4C04-4C3E-847D-F409FC89335C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CH12 - Using Tools to Improve Code", "CH12 - Using Tools to Improve Code", "{189480F8-6CE0-43AD-B2A9-90EA9E016505}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CH13 - Class-Level Code Smells", "CH13 - Class-Level Code Smells", "{0ECE32D4-EC4C-4AF6-9DEC-A18378D98425}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CH14 - Refactoring Part 1", "CH14 - Refactoring Part 1", "{7FC77E47-0572-4B15-8A2C-C0451414AEFC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CH15 - Refactoring Part 2", "CH15 - Refactoring Part 2", "{52DE8D61-DE7D-46CE-B435-B08305170020}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CH05_ExceptionHandling", "CH05_ExceptionHandling\CH05_ExceptionHandling.csproj", "{87D18977-11AE-45E0-BF9E-2C6FD54E7AC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CH05_AvoidNullPointerExceptions", "CH05_AvoidNullPointerExceptions\CH05_AvoidNullPointerExceptions.csproj", "{14891FDE-F845-4271-A0ED-E17D53C04985}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CH05_BusinessRuleExceptions", "CH05_BusinessRuleExceptions\CH05_BusinessRuleExceptions.csproj", "{6C96FA84-F345-4074-B414-EFF0F5C01143}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CH05_CustomExceptions", "CH05_CustomExceptions\CH05_CustomExceptions.csproj", "{8871CC42-5A95-49B0-9EE0-6B06B48095A8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,9 +55,32 @@ Global
 		{7DFEB909-C72C-4BC0-BC60-152FD0A41B31}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7DFEB909-C72C-4BC0-BC60-152FD0A41B31}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7DFEB909-C72C-4BC0-BC60-152FD0A41B31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87D18977-11AE-45E0-BF9E-2C6FD54E7AC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87D18977-11AE-45E0-BF9E-2C6FD54E7AC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87D18977-11AE-45E0-BF9E-2C6FD54E7AC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87D18977-11AE-45E0-BF9E-2C6FD54E7AC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14891FDE-F845-4271-A0ED-E17D53C04985}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14891FDE-F845-4271-A0ED-E17D53C04985}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14891FDE-F845-4271-A0ED-E17D53C04985}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14891FDE-F845-4271-A0ED-E17D53C04985}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C96FA84-F345-4074-B414-EFF0F5C01143}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C96FA84-F345-4074-B414-EFF0F5C01143}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C96FA84-F345-4074-B414-EFF0F5C01143}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C96FA84-F345-4074-B414-EFF0F5C01143}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8871CC42-5A95-49B0-9EE0-6B06B48095A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8871CC42-5A95-49B0-9EE0-6B06B48095A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8871CC42-5A95-49B0-9EE0-6B06B48095A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8871CC42-5A95-49B0-9EE0-6B06B48095A8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7DFEB909-C72C-4BC0-BC60-152FD0A41B31} = {316BD921-F46A-471A-833E-AA6305C8D66A}
+		{87D18977-11AE-45E0-BF9E-2C6FD54E7AC8} = {682CD903-2641-4ABB-830B-138C542553A1}
+		{14891FDE-F845-4271-A0ED-E17D53C04985} = {682CD903-2641-4ABB-830B-138C542553A1}
+		{6C96FA84-F345-4074-B414-EFF0F5C01143} = {682CD903-2641-4ABB-830B-138C542553A1}
+		{8871CC42-5A95-49B0-9EE0-6B06B48095A8} = {682CD903-2641-4ABB-830B-138C542553A1}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {FC6460B1-7EEE-4407-9D44-0300F859F039}

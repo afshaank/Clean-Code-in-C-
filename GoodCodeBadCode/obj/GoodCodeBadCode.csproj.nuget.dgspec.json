@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\personal\\_packtpub\\dev\\Clean Code in C#\\Clean-Code-in-C-\\GoodCodeBadCode\\GoodCodeBadCode.csproj": {}
+    "D:\\Development\\Clean-Code-in-C-\\GoodCodeBadCode\\GoodCodeBadCode.csproj": {}
   },
   "projects": {
-    "D:\\personal\\_packtpub\\dev\\Clean Code in C#\\Clean-Code-in-C-\\GoodCodeBadCode\\GoodCodeBadCode.csproj": {
+    "D:\\Development\\Clean-Code-in-C-\\GoodCodeBadCode\\GoodCodeBadCode.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\personal\\_packtpub\\dev\\Clean Code in C#\\Clean-Code-in-C-\\GoodCodeBadCode\\GoodCodeBadCode.csproj",
+        "projectUniqueName": "D:\\Development\\Clean-Code-in-C-\\GoodCodeBadCode\\GoodCodeBadCode.csproj",
         "projectName": "GoodCodeBadCode",
-        "projectPath": "D:\\personal\\_packtpub\\dev\\Clean Code in C#\\Clean-Code-in-C-\\GoodCodeBadCode\\GoodCodeBadCode.csproj",
+        "projectPath": "D:\\Development\\Clean-Code-in-C-\\GoodCodeBadCode\\GoodCodeBadCode.csproj",
         "packagesPath": "C:\\Users\\jason\\.nuget\\packages\\",
-        "outputPath": "D:\\personal\\_packtpub\\dev\\Clean Code in C#\\Clean-Code-in-C-\\GoodCodeBadCode\\obj\\",
+        "outputPath": "D:\\Development\\Clean-Code-in-C-\\GoodCodeBadCode\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\_NUGET_INTERNAL_PACKAGES": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -56,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

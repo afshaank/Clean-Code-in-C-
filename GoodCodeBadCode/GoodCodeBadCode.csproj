@@ -12,8 +12,8 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="CH03\Indentation\" />
     <Folder Include="CH04\" />
-    <Folder Include="CH05\" />
     <Folder Include="CH06\" />
     <Folder Include="CH07\" />
     <Folder Include="CH08\" />

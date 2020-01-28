@@ -21,3 +21,14 @@ D:\personal\_packtpub\dev\Clean Code in C#\Clean-Code-in-C-\GoodCodeBadCode\bin\
 D:\personal\_packtpub\dev\Clean Code in C#\Clean-Code-in-C-\GoodCodeBadCode\bin\Debug\netcoreapp3.0\GoodCodeBadCode.runtimeconfig.dev.json
 D:\personal\_packtpub\dev\Clean Code in C#\Clean-Code-in-C-\GoodCodeBadCode\bin\Debug\netcoreapp3.0\GoodCodeBadCode.dll
 D:\personal\_packtpub\dev\Clean Code in C#\Clean-Code-in-C-\GoodCodeBadCode\bin\Debug\netcoreapp3.0\GoodCodeBadCode.pdb
+D:\Development\Clean-Code-in-C-\GoodCodeBadCode\obj\Debug\netcoreapp3.0\GoodCodeBadCode.csprojAssemblyReference.cache
+D:\Development\Clean-Code-in-C-\GoodCodeBadCode\obj\Debug\netcoreapp3.0\GoodCodeBadCode.AssemblyInfoInputs.cache
+D:\Development\Clean-Code-in-C-\GoodCodeBadCode\obj\Debug\netcoreapp3.0\GoodCodeBadCode.AssemblyInfo.cs
+D:\Development\Clean-Code-in-C-\GoodCodeBadCode\obj\Debug\netcoreapp3.0\GoodCodeBadCode.dll
+D:\Development\Clean-Code-in-C-\GoodCodeBadCode\obj\Debug\netcoreapp3.0\GoodCodeBadCode.pdb
+D:\Development\Clean-Code-in-C-\GoodCodeBadCode\bin\Debug\netcoreapp3.0\GoodCodeBadCode.exe
+D:\Development\Clean-Code-in-C-\GoodCodeBadCode\bin\Debug\netcoreapp3.0\GoodCodeBadCode.deps.json
+D:\Development\Clean-Code-in-C-\GoodCodeBadCode\bin\Debug\netcoreapp3.0\GoodCodeBadCode.runtimeconfig.json
+D:\Development\Clean-Code-in-C-\GoodCodeBadCode\bin\Debug\netcoreapp3.0\GoodCodeBadCode.runtimeconfig.dev.json
+D:\Development\Clean-Code-in-C-\GoodCodeBadCode\bin\Debug\netcoreapp3.0\GoodCodeBadCode.dll
+D:\Development\Clean-Code-in-C-\GoodCodeBadCode\bin\Debug\netcoreapp3.0\GoodCodeBadCode.pdb
